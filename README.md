@@ -1,2 +1,2 @@
 # SIMPLE CONTACT MANAGEMENT SYSTEM
-Develop a program that allows user to store and manage contact information.The program should provide add a new contact by entering their name,mobile number,and email address 
+Develop a program that allows user to store and manage contact information.The program should provide add a new contact by entering their name,mobile number,and email address.It should also allows user to view their contact list,edit existing contacts and delete contacts if needed.The program should store the contacts in memory or in a file for persistent storage.
